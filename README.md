@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Home SIEM lab](https://github.com/RylanCraig/)
+- [Home SIEM lab](https://github.com/RylanCraig/HomeSIEMLab)
 - [Phishing Simulation](https://github.com/RylanCraig/)
 <h2>👨‍💻 Certifications</h2>
 
