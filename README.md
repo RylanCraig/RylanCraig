@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Home SIEM lab](https://github.com/RylanCraig/HomeSIEMLab)
-- [Phishing Simulation](https://github.com/RylanCraig/)
+- [Phishing Simulation](https://github.com/RylanCraig/) [COMING SOON]
 <h2>👨‍💻 Certifications</h2>
 
-- [CompTIA Sec +](https://github.com/RylanCraig/)
+- [CompTIA Sec +](https://github.com/RylanCraig/) (Expected April 2025)
 
 
 
