@@ -6,7 +6,7 @@
 - [Phishing Simulation](https://github.com/RylanCraig/) [COMING SOON]
 <h2>👨‍💻 Certifications</h2>
 
-- [CompTIA Sec +](https://github.com/RylanCraig/) (Expected April 2025)
+- [CompTIA Sec +](https://github.com/RylanCraig/) (Expected June 2025)
 
 
 
