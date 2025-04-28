@@ -1,9 +1,12 @@
 <h1>Hi, I'm Rylan! 
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects & Software Engineering Projects:</h2>
 
 - [Home SIEM lab](https://github.com/RylanCraig/HomeSIEMLab)
 - [Phishing Simulation](https://github.com/RylanCraig/) [COMING SOON]
+- [To Do List App](link)
+
+
 <h2>👨‍💻 Certifications</h2>
 
 - [CompTIA Sec +](https://github.com/RylanCraig/) (Expected June 2025)
