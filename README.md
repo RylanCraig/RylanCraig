@@ -1,9 +1,11 @@
 <h1>Hi, I'm Rylan! 
 
-<h2>👨‍💻 Cyber Security Projects & Software Engineering Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Home SIEM lab](https://github.com/RylanCraig/HomeSIEMLab)
 - [Phishing Simulation](https://github.com/RylanCraig/) [COMING SOON]
+
+<h2>👨‍💻 Software Engineering Projects:</h2>
 - [To Do List App](link)
 
 
