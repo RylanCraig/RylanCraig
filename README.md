@@ -6,7 +6,10 @@
 - [Phishing Simulation](https://github.com/RylanCraig/) [COMING SOON]
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
-- [To Do List App](link)
+
+- [Smart Kitchen](https://github.com/RylanCraig/Smart_Kitchen)
+- [To Do List App](https://github.com/RylanCraig/ToDoListApp) <!-- Replace with actual URL -->
+
 
 
 <h2>👨‍💻 Certifications</h2>
