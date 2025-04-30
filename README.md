@@ -8,7 +8,7 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 - [Smart Kitchen](https://github.com/RylanCraig/Smart_Kitchen)
-- [To Do List App](https://github.com/RylanCraig/ToDoListApp) <!-- Replace with actual URL -->
+- [To Do List App](https://github.com/RylanCraig/Java-ToDoList-CLI) 
 
 
 
