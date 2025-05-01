@@ -8,7 +8,9 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 - [Smart Kitchen](https://github.com/RylanCraig/Smart_Kitchen)
-- [To Do List App](https://github.com/RylanCraig/Java-ToDoList-CLI) 
+- [Java To-Do List CLI](https://github.com/RylanCraig/Java-ToDoList-CLI)
+- [Java Password Manager CLI](https://github.com/RylanCraig/Java-PasswordManager)
+
 
 
 
